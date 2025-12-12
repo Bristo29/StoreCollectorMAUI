@@ -1,0 +1,38 @@
+﻿<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="StoreCollector.Maui.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,0"
+            Spacing="25">
+
+            <Image
+                Source="dotnet_bot.png"
+                HeightRequest="185"
+                Aspect="AspectFit" />
+
+            <Label
+                Text="Hello, World!"
+                Style="{StaticResource Headline}" />
+
+            <Label
+                Text="Welcome to &#10;.NET Multi-platform App UI"
+                Style="{StaticResource SubHeadline}" />
+
+            <Button
+                x:Name="CounterBtn"
+                Text="Click me"
+                Clicked="OnCounterClicked" />
+
+            <!-- NUEVO BOTÓN -->
+            <Button
+                Text="Ver Productos"
+                Clicked="OnProductosClicked"
+                HorizontalOptions="Fill"
+                Margin="0,15,0,0" />
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

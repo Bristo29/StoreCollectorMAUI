@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="StoreCollector.Maui.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:views="clr-namespace:StoreCollector.Maui.Views">
+
+    <ShellContent
+        Title="Productos"
+        ContentTemplate="{DataTemplate views:ProductosPage}"
+        Route="ProductosPage" />
+
+    <ShellContent
+        Title="Nuevo Producto"
+        ContentTemplate="{DataTemplate views:NuevoProductoPage}"
+        Route="NuevoProductoPage" />
+
+</Shell>

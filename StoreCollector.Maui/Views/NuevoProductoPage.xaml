@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:viewmodels="clr-namespace:StoreCollector.Maui.ViewModels"
+    x:Class="StoreCollector.Maui.Views.NuevoProductoPage"
+    Title="Nuevo Producto">
+
+    <ScrollView>
+		<VerticalStackLayout Padding="25" Spacing="15">
+
+			<Entry Placeholder="Nombre" Text="{Binding Nombre}" />
+			<Entry Placeholder="Descripción" Text="{Binding Descripcion}" />
+
+			<Entry Placeholder="Precio"
+                   Keyboard="Numeric"
+                   Text="{Binding Precio}" />
+
+			<Entry Placeholder="Stock"
+                   Keyboard="Numeric"
+                   Text="{Binding Stock}" />
+
+			<Entry Placeholder="Categoría" Text="{Binding Categoria}" />
+			<Entry Placeholder="Código de Barras" Text="{Binding CodigoBarras}" />
+
+			<Button Text="Guardar"
+                    Command="{Binding GuardarCommand}"
+                    BackgroundColor="#2196F3"
+                    TextColor="White"
+                    CornerRadius="10" />
+		</VerticalStackLayout>
+	</ScrollView>
+</ContentPage>
