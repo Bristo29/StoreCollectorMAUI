@@ -1,20 +1,25 @@
 ﻿using StoreCollector.Maui.ViewModels;
+using System.Diagnostics;
 
 namespace StoreCollector.Maui.Views
 {
     public partial class ProductosPage : ContentPage
     {
-        public ProductosPage()
+        private readonly ProductosViewModel _viewModel;
+
+        public ProductosPage(ProductosViewModel productosViewModel)
         {
             InitializeComponent();
+            _viewModel = productosViewModel;
+            BindingContext = _viewModel;
         }
 
-        protected override void OnAppearing()
+        protected override async void OnAppearing()
         {
             base.OnAppearing();
 
-            var vm = BindingContext as ProductosViewModel;
-            vm?.CargarProductosCommand.Execute(null);
+            // Llamada asíncrona correcta
+            await _viewModel.CargarProductosAsync();
         }
     }
 }

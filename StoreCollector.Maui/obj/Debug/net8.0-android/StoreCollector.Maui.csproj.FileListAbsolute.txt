@@ -1053,3 +1053,4 @@ C:\Users\Brian\source\repos\StoreCollector.Maui\StoreCollector.Maui\obj\Debug\ne
 C:\Users\Brian\source\repos\StoreCollector.Maui\StoreCollector.Maui\obj\Debug\net8.0-android\android\bin\com.companyname.storecollector.aab
 C:\Users\Brian\source\repos\StoreCollector.Maui\StoreCollector.Maui\obj\Debug\net8.0-android\android\bin\com.companyname.storecollector.apks
 C:\Users\Brian\source\repos\StoreCollector.Maui\StoreCollector.Maui\obj\Debug\net8.0-android\android\src\com\companyname\storecollector\R.java
+C:\Users\Brian\source\repos\StoreCollector.Maui\StoreCollector.Maui\obj\Debug\net8.0-android\StoreCollector.Maui.sourcelink.json

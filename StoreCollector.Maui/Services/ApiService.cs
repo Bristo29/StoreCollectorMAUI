@@ -10,7 +10,7 @@ namespace StoreCollector.Maui.Services
         {
             _client = new HttpClient
             {
-                BaseAddress = new Uri("http://10.0.2.2:5270")
+                BaseAddress = new Uri("http://192.168.1.16:5270")
             };
         }
 

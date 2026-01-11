@@ -3,32 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Brian\\source\\repos\\StoreCollector.Maui\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1C886230-0E1F-42F8-B467-BD4FCF42FAD4}|StoreCollector.Maui\\StoreCollector.Maui.csproj|c:\\users\\brian\\source\\repos\\storecollector.maui\\storecollector.maui\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C886230-0E1F-42F8-B467-BD4FCF42FAD4}|StoreCollector.Maui\\StoreCollector.Maui.csproj|solutionrelative:storecollector.maui\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C886230-0E1F-42F8-B467-BD4FCF42FAD4}|StoreCollector.Maui\\StoreCollector.Maui.csproj|c:\\users\\brian\\source\\repos\\storecollector.maui\\storecollector.maui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{1C886230-0E1F-42F8-B467-BD4FCF42FAD4}|StoreCollector.Maui\\StoreCollector.Maui.csproj|solutionrelative:storecollector.maui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1C886230-0E1F-42F8-B467-BD4FCF42FAD4}|StoreCollector.Maui\\StoreCollector.Maui.csproj|c:\\users\\brian\\source\\repos\\storecollector.maui\\storecollector.maui\\viewmodels\\productosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C886230-0E1F-42F8-B467-BD4FCF42FAD4}|StoreCollector.Maui\\StoreCollector.Maui.csproj|solutionrelative:storecollector.maui\\viewmodels\\productosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C886230-0E1F-42F8-B467-BD4FCF42FAD4}|StoreCollector.Maui\\StoreCollector.Maui.csproj|c:\\users\\brian\\source\\repos\\storecollector.maui\\storecollector.maui\\views\\productospage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C886230-0E1F-42F8-B467-BD4FCF42FAD4}|StoreCollector.Maui\\StoreCollector.Maui.csproj|solutionrelative:storecollector.maui\\views\\productospage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C886230-0E1F-42F8-B467-BD4FCF42FAD4}|StoreCollector.Maui\\StoreCollector.Maui.csproj|c:\\users\\brian\\source\\repos\\storecollector.maui\\storecollector.maui\\views\\productospage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{1C886230-0E1F-42F8-B467-BD4FCF42FAD4}|StoreCollector.Maui\\StoreCollector.Maui.csproj|solutionrelative:storecollector.maui\\views\\productospage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C886230-0E1F-42F8-B467-BD4FCF42FAD4}|StoreCollector.Maui\\StoreCollector.Maui.csproj|c:\\users\\brian\\source\\repos\\storecollector.maui\\storecollector.maui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{1C886230-0E1F-42F8-B467-BD4FCF42FAD4}|StoreCollector.Maui\\StoreCollector.Maui.csproj|solutionrelative:storecollector.maui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{1C886230-0E1F-42F8-B467-BD4FCF42FAD4}|StoreCollector.Maui\\StoreCollector.Maui.csproj|c:\\users\\brian\\source\\repos\\storecollector.maui\\storecollector.maui\\views\\productospage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C886230-0E1F-42F8-B467-BD4FCF42FAD4}|StoreCollector.Maui\\StoreCollector.Maui.csproj|solutionrelative:storecollector.maui\\views\\productospage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C886230-0E1F-42F8-B467-BD4FCF42FAD4}|StoreCollector.Maui\\StoreCollector.Maui.csproj|c:\\users\\brian\\source\\repos\\storecollector.maui\\storecollector.maui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C886230-0E1F-42F8-B467-BD4FCF42FAD4}|StoreCollector.Maui\\StoreCollector.Maui.csproj|solutionrelative:storecollector.maui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C886230-0E1F-42F8-B467-BD4FCF42FAD4}|StoreCollector.Maui\\StoreCollector.Maui.csproj|c:\\users\\brian\\source\\repos\\storecollector.maui\\storecollector.maui\\views\\nuevoproductopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C886230-0E1F-42F8-B467-BD4FCF42FAD4}|StoreCollector.Maui\\StoreCollector.Maui.csproj|solutionrelative:storecollector.maui\\views\\nuevoproductopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C886230-0E1F-42F8-B467-BD4FCF42FAD4}|StoreCollector.Maui\\StoreCollector.Maui.csproj|c:\\users\\brian\\source\\repos\\storecollector.maui\\storecollector.maui\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C886230-0E1F-42F8-B467-BD4FCF42FAD4}|StoreCollector.Maui\\StoreCollector.Maui.csproj|solutionrelative:storecollector.maui\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C886230-0E1F-42F8-B467-BD4FCF42FAD4}|StoreCollector.Maui\\StoreCollector.Maui.csproj|c:\\users\\brian\\source\\repos\\storecollector.maui\\storecollector.maui\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C886230-0E1F-42F8-B467-BD4FCF42FAD4}|StoreCollector.Maui\\StoreCollector.Maui.csproj|solutionrelative:storecollector.maui\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C886230-0E1F-42F8-B467-BD4FCF42FAD4}|StoreCollector.Maui\\StoreCollector.Maui.csproj|c:\\users\\brian\\source\\repos\\storecollector.maui\\storecollector.maui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C886230-0E1F-42F8-B467-BD4FCF42FAD4}|StoreCollector.Maui\\StoreCollector.Maui.csproj|solutionrelative:storecollector.maui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C886230-0E1F-42F8-B467-BD4FCF42FAD4}|StoreCollector.Maui\\StoreCollector.Maui.csproj|c:\\users\\brian\\source\\repos\\storecollector.maui\\storecollector.maui\\viewmodels\\nuevoproductoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C886230-0E1F-42F8-B467-BD4FCF42FAD4}|StoreCollector.Maui\\StoreCollector.Maui.csproj|solutionrelative:storecollector.maui\\viewmodels\\nuevoproductoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C886230-0E1F-42F8-B467-BD4FCF42FAD4}|StoreCollector.Maui\\StoreCollector.Maui.csproj|c:\\users\\brian\\source\\repos\\storecollector.maui\\storecollector.maui\\views\\nuevoproductopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1C886230-0E1F-42F8-B467-BD4FCF42FAD4}|StoreCollector.Maui\\StoreCollector.Maui.csproj|solutionrelative:storecollector.maui\\views\\nuevoproductopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C886230-0E1F-42F8-B467-BD4FCF42FAD4}|StoreCollector.Maui\\StoreCollector.Maui.csproj|c:\\users\\brian\\source\\repos\\storecollector.maui\\storecollector.maui\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,20 +47,20 @@
       "RelativeMoniker": "D:0:0:{1C886230-0E1F-42F8-B467-BD4FCF42FAD4}|StoreCollector.Maui\\StoreCollector.Maui.csproj|solutionrelative:storecollector.maui\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C886230-0E1F-42F8-B467-BD4FCF42FAD4}|StoreCollector.Maui\\StoreCollector.Maui.csproj|c:\\users\\brian\\source\\repos\\storecollector.maui\\storecollector.maui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C886230-0E1F-42F8-B467-BD4FCF42FAD4}|StoreCollector.Maui\\StoreCollector.Maui.csproj|solutionrelative:storecollector.maui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C886230-0E1F-42F8-B467-BD4FCF42FAD4}|StoreCollector.Maui\\StoreCollector.Maui.csproj|c:\\users\\brian\\source\\repos\\storecollector.maui\\storecollector.maui\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C886230-0E1F-42F8-B467-BD4FCF42FAD4}|StoreCollector.Maui\\StoreCollector.Maui.csproj|solutionrelative:storecollector.maui\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C886230-0E1F-42F8-B467-BD4FCF42FAD4}|StoreCollector.Maui\\StoreCollector.Maui.csproj|c:\\users\\brian\\source\\repos\\storecollector.maui\\storecollector.maui\\views\\nuevoproductopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C886230-0E1F-42F8-B467-BD4FCF42FAD4}|StoreCollector.Maui\\StoreCollector.Maui.csproj|solutionrelative:storecollector.maui\\views\\nuevoproductopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C886230-0E1F-42F8-B467-BD4FCF42FAD4}|StoreCollector.Maui\\StoreCollector.Maui.csproj|c:\\users\\brian\\source\\repos\\storecollector.maui\\storecollector.maui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1C886230-0E1F-42F8-B467-BD4FCF42FAD4}|StoreCollector.Maui\\StoreCollector.Maui.csproj|solutionrelative:storecollector.maui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C886230-0E1F-42F8-B467-BD4FCF42FAD4}|StoreCollector.Maui\\StoreCollector.Maui.csproj|c:\\users\\brian\\source\\repos\\storecollector.maui\\storecollector.maui\\views\\nuevoproductopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{1C886230-0E1F-42F8-B467-BD4FCF42FAD4}|StoreCollector.Maui\\StoreCollector.Maui.csproj|solutionrelative:storecollector.maui\\views\\nuevoproductopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{1C886230-0E1F-42F8-B467-BD4FCF42FAD4}|StoreCollector.Maui\\StoreCollector.Maui.csproj|c:\\users\\brian\\source\\repos\\storecollector.maui\\storecollector.maui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1C886230-0E1F-42F8-B467-BD4FCF42FAD4}|StoreCollector.Maui\\StoreCollector.Maui.csproj|solutionrelative:storecollector.maui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C886230-0E1F-42F8-B467-BD4FCF42FAD4}|StoreCollector.Maui\\StoreCollector.Maui.csproj|c:\\users\\brian\\source\\repos\\storecollector.maui\\storecollector.maui\\viewmodels\\nuevoproductoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C886230-0E1F-42F8-B467-BD4FCF42FAD4}|StoreCollector.Maui\\StoreCollector.Maui.csproj|solutionrelative:storecollector.maui\\viewmodels\\nuevoproductoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C886230-0E1F-42F8-B467-BD4FCF42FAD4}|StoreCollector.Maui\\StoreCollector.Maui.csproj|c:\\users\\brian\\source\\repos\\storecollector.maui\\storecollector.maui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C886230-0E1F-42F8-B467-BD4FCF42FAD4}|StoreCollector.Maui\\StoreCollector.Maui.csproj|solutionrelative:storecollector.maui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C886230-0E1F-42F8-B467-BD4FCF42FAD4}|StoreCollector.Maui\\StoreCollector.Maui.csproj|c:\\users\\brian\\source\\repos\\storecollector.maui\\storecollector.maui\\services\\ventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -61,14 +69,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1C886230-0E1F-42F8-B467-BD4FCF42FAD4}|StoreCollector.Maui\\StoreCollector.Maui.csproj|c:\\users\\brian\\source\\repos\\storecollector.maui\\storecollector.maui\\models\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C886230-0E1F-42F8-B467-BD4FCF42FAD4}|StoreCollector.Maui\\StoreCollector.Maui.csproj|solutionrelative:storecollector.maui\\models\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C886230-0E1F-42F8-B467-BD4FCF42FAD4}|StoreCollector.Maui\\StoreCollector.Maui.csproj|c:\\users\\brian\\source\\repos\\storecollector.maui\\storecollector.maui\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C886230-0E1F-42F8-B467-BD4FCF42FAD4}|StoreCollector.Maui\\StoreCollector.Maui.csproj|solutionrelative:storecollector.maui\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C886230-0E1F-42F8-B467-BD4FCF42FAD4}|StoreCollector.Maui\\StoreCollector.Maui.csproj|c:\\users\\brian\\source\\repos\\storecollector.maui\\storecollector.maui\\platforms\\android\\androidmanifest.xml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{1C886230-0E1F-42F8-B467-BD4FCF42FAD4}|StoreCollector.Maui\\StoreCollector.Maui.csproj|solutionrelative:storecollector.maui\\platforms\\android\\androidmanifest.xml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C886230-0E1F-42F8-B467-BD4FCF42FAD4}|StoreCollector.Maui\\StoreCollector.Maui.csproj|c:\\users\\brian\\source\\repos\\storecollector.maui\\storecollector.maui\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -102,102 +102,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AppShell.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Brian\\source\\repos\\StoreCollector.Maui\\StoreCollector.Maui\\AppShell.xaml.cs",
-              "RelativeDocumentMoniker": "StoreCollector.Maui\\AppShell.xaml.cs",
-              "ToolTip": "C:\\Users\\Brian\\source\\repos\\StoreCollector.Maui\\StoreCollector.Maui\\AppShell.xaml.cs",
-              "RelativeToolTip": "StoreCollector.Maui\\AppShell.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T06:01:32.509Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MauiProgram.cs",
-              "DocumentMoniker": "C:\\Users\\Brian\\source\\repos\\StoreCollector.Maui\\StoreCollector.Maui\\MauiProgram.cs",
-              "RelativeDocumentMoniker": "StoreCollector.Maui\\MauiProgram.cs",
-              "ToolTip": "C:\\Users\\Brian\\source\\repos\\StoreCollector.Maui\\StoreCollector.Maui\\MauiProgram.cs",
-              "RelativeToolTip": "StoreCollector.Maui\\MauiProgram.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T06:16:06.109Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AppShell.xaml",
-              "DocumentMoniker": "C:\\Users\\Brian\\source\\repos\\StoreCollector.Maui\\StoreCollector.Maui\\AppShell.xaml",
-              "RelativeDocumentMoniker": "StoreCollector.Maui\\AppShell.xaml",
-              "ToolTip": "C:\\Users\\Brian\\source\\repos\\StoreCollector.Maui\\StoreCollector.Maui\\AppShell.xaml",
-              "RelativeToolTip": "StoreCollector.Maui\\AppShell.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-12-10T04:30:57.418Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ProductosViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Brian\\source\\repos\\StoreCollector.Maui\\StoreCollector.Maui\\ViewModels\\ProductosViewModel.cs",
-              "RelativeDocumentMoniker": "StoreCollector.Maui\\ViewModels\\ProductosViewModel.cs",
-              "ToolTip": "C:\\Users\\Brian\\source\\repos\\StoreCollector.Maui\\StoreCollector.Maui\\ViewModels\\ProductosViewModel.cs",
-              "RelativeToolTip": "StoreCollector.Maui\\ViewModels\\ProductosViewModel.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAA4wDgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T03:51:06.847Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "ProductosPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Brian\\source\\repos\\StoreCollector.Maui\\StoreCollector.Maui\\Views\\ProductosPage.xaml.cs",
               "RelativeDocumentMoniker": "StoreCollector.Maui\\Views\\ProductosPage.xaml.cs",
               "ToolTip": "C:\\Users\\Brian\\source\\repos\\StoreCollector.Maui\\StoreCollector.Maui\\Views\\ProductosPage.xaml.cs",
               "RelativeToolTip": "StoreCollector.Maui\\Views\\ProductosPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T06:30:57.131Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-12T06:30:57.131Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Brian\\source\\repos\\StoreCollector.Maui\\StoreCollector.Maui\\App.xaml.cs",
-              "RelativeDocumentMoniker": "StoreCollector.Maui\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\Brian\\source\\repos\\StoreCollector.Maui\\StoreCollector.Maui\\App.xaml.cs",
-              "RelativeToolTip": "StoreCollector.Maui\\App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T06:02:40.202Z",
-              "EditorCaption": ""
+              "DocumentIndex": 1,
+              "Title": "ProductosPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Brian\\source\\repos\\StoreCollector.Maui\\StoreCollector.Maui\\Views\\ProductosPage.xaml",
+              "RelativeDocumentMoniker": "StoreCollector.Maui\\Views\\ProductosPage.xaml",
+              "ToolTip": "C:\\Users\\Brian\\source\\repos\\StoreCollector.Maui\\StoreCollector.Maui\\Views\\ProductosPage.xaml",
+              "RelativeToolTip": "StoreCollector.Maui\\Views\\ProductosPage.xaml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAqwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-10T04:55:29.026Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ApiService.cs",
-              "DocumentMoniker": "C:\\Users\\Brian\\source\\repos\\StoreCollector.Maui\\StoreCollector.Maui\\Services\\ApiService.cs",
-              "RelativeDocumentMoniker": "StoreCollector.Maui\\Services\\ApiService.cs",
-              "ToolTip": "C:\\Users\\Brian\\source\\repos\\StoreCollector.Maui\\StoreCollector.Maui\\Services\\ApiService.cs",
-              "RelativeToolTip": "StoreCollector.Maui\\Services\\ApiService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T06:03:52.47Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\Brian\\source\\repos\\StoreCollector.Maui\\StoreCollector.Maui\\App.xaml",
               "RelativeDocumentMoniker": "StoreCollector.Maui\\App.xaml",
@@ -205,64 +138,23 @@
               "RelativeToolTip": "StoreCollector.Maui\\App.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-12-10T06:02:07.444Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-10T06:02:07.444Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductosPage.xaml",
-              "DocumentMoniker": "C:\\Users\\Brian\\source\\repos\\StoreCollector.Maui\\StoreCollector.Maui\\Views\\ProductosPage.xaml",
-              "RelativeDocumentMoniker": "StoreCollector.Maui\\Views\\ProductosPage.xaml",
-              "ToolTip": "C:\\Users\\Brian\\source\\repos\\StoreCollector.Maui\\StoreCollector.Maui\\Views\\ProductosPage.xaml",
-              "RelativeToolTip": "StoreCollector.Maui\\Views\\ProductosPage.xaml",
-              "ViewState": "AgIAABkAAAAAAAAAAAAiwDgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-12-10T04:55:29.026Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "NuevoProductoPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Brian\\source\\repos\\StoreCollector.Maui\\StoreCollector.Maui\\Views\\NuevoProductoPage.xaml.cs",
-              "RelativeDocumentMoniker": "StoreCollector.Maui\\Views\\NuevoProductoPage.xaml.cs",
-              "ToolTip": "C:\\Users\\Brian\\source\\repos\\StoreCollector.Maui\\StoreCollector.Maui\\Views\\NuevoProductoPage.xaml.cs",
-              "RelativeToolTip": "StoreCollector.Maui\\Views\\NuevoProductoPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T04:29:29.601Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 8,
               "Title": "NuevoProductoPage.xaml",
               "DocumentMoniker": "C:\\Users\\Brian\\source\\repos\\StoreCollector.Maui\\StoreCollector.Maui\\Views\\NuevoProductoPage.xaml",
               "RelativeDocumentMoniker": "StoreCollector.Maui\\Views\\NuevoProductoPage.xaml",
               "ToolTip": "C:\\Users\\Brian\\source\\repos\\StoreCollector.Maui\\StoreCollector.Maui\\Views\\NuevoProductoPage.xaml",
               "RelativeToolTip": "StoreCollector.Maui\\Views\\NuevoProductoPage.xaml",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAmwBoAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-12-11T04:51:57.741Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-11T04:51:57.741Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "ProductoService.cs",
-              "DocumentMoniker": "C:\\Users\\Brian\\source\\repos\\StoreCollector.Maui\\StoreCollector.Maui\\Services\\ProductoService.cs",
-              "RelativeDocumentMoniker": "StoreCollector.Maui\\Services\\ProductoService.cs",
-              "ToolTip": "C:\\Users\\Brian\\source\\repos\\StoreCollector.Maui\\StoreCollector.Maui\\Services\\ProductoService.cs",
-              "RelativeToolTip": "StoreCollector.Maui\\Services\\ProductoService.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAvwCcAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-11T04:18:57.096Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
               "Title": "NuevoProductoViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Brian\\source\\repos\\StoreCollector.Maui\\StoreCollector.Maui\\ViewModels\\NuevoProductoViewModel.cs",
               "RelativeDocumentMoniker": "StoreCollector.Maui\\ViewModels\\NuevoProductoViewModel.cs",
@@ -274,7 +166,128 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 3,
+              "Title": "NuevoProductoPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Brian\\source\\repos\\StoreCollector.Maui\\StoreCollector.Maui\\Views\\NuevoProductoPage.xaml.cs",
+              "RelativeDocumentMoniker": "StoreCollector.Maui\\Views\\NuevoProductoPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Brian\\source\\repos\\StoreCollector.Maui\\StoreCollector.Maui\\Views\\NuevoProductoPage.xaml.cs",
+              "RelativeToolTip": "StoreCollector.Maui\\Views\\NuevoProductoPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T04:29:29.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductosViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Brian\\source\\repos\\StoreCollector.Maui\\StoreCollector.Maui\\ViewModels\\ProductosViewModel.cs",
+              "RelativeDocumentMoniker": "StoreCollector.Maui\\ViewModels\\ProductosViewModel.cs",
+              "ToolTip": "C:\\Users\\Brian\\source\\repos\\StoreCollector.Maui\\StoreCollector.Maui\\ViewModels\\ProductosViewModel.cs",
+              "RelativeToolTip": "StoreCollector.Maui\\ViewModels\\ProductosViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T03:51:06.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\Users\\Brian\\source\\repos\\StoreCollector.Maui\\StoreCollector.Maui\\Services\\ApiService.cs",
+              "RelativeDocumentMoniker": "StoreCollector.Maui\\Services\\ApiService.cs",
+              "ToolTip": "C:\\Users\\Brian\\source\\repos\\StoreCollector.Maui\\StoreCollector.Maui\\Services\\ApiService.cs",
+              "RelativeToolTip": "StoreCollector.Maui\\Services\\ApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T06:03:52.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Brian\\source\\repos\\StoreCollector.Maui\\StoreCollector.Maui\\ViewModels\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "StoreCollector.Maui\\ViewModels\\BaseViewModel.cs",
+              "ToolTip": "C:\\Users\\Brian\\source\\repos\\StoreCollector.Maui\\StoreCollector.Maui\\ViewModels\\BaseViewModel.cs",
+              "RelativeToolTip": "StoreCollector.Maui\\ViewModels\\BaseViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T05:19:05.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Brian\\source\\repos\\StoreCollector.Maui\\StoreCollector.Maui\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "StoreCollector.Maui\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\Brian\\source\\repos\\StoreCollector.Maui\\StoreCollector.Maui\\Models\\Producto.cs",
+              "RelativeToolTip": "StoreCollector.Maui\\Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T03:48:07.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Brian\\source\\repos\\StoreCollector.Maui\\StoreCollector.Maui\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "StoreCollector.Maui\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\Brian\\source\\repos\\StoreCollector.Maui\\StoreCollector.Maui\\MauiProgram.cs",
+              "RelativeToolTip": "StoreCollector.Maui\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T06:16:06.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Brian\\source\\repos\\StoreCollector.Maui\\StoreCollector.Maui\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "StoreCollector.Maui\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\Brian\\source\\repos\\StoreCollector.Maui\\StoreCollector.Maui\\AppShell.xaml.cs",
+              "RelativeToolTip": "StoreCollector.Maui\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T06:01:32.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\Brian\\source\\repos\\StoreCollector.Maui\\StoreCollector.Maui\\Services\\ProductoService.cs",
+              "RelativeDocumentMoniker": "StoreCollector.Maui\\Services\\ProductoService.cs",
+              "ToolTip": "C:\\Users\\Brian\\source\\repos\\StoreCollector.Maui\\StoreCollector.Maui\\Services\\ProductoService.cs",
+              "RelativeToolTip": "StoreCollector.Maui\\Services\\ProductoService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwBEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T04:18:57.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Brian\\source\\repos\\StoreCollector.Maui\\StoreCollector.Maui\\App.xaml.cs",
+              "RelativeDocumentMoniker": "StoreCollector.Maui\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Brian\\source\\repos\\StoreCollector.Maui\\StoreCollector.Maui\\App.xaml.cs",
+              "RelativeToolTip": "StoreCollector.Maui\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T06:02:40.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Brian\\source\\repos\\StoreCollector.Maui\\StoreCollector.Maui\\AppShell.xaml",
+              "RelativeDocumentMoniker": "StoreCollector.Maui\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\Brian\\source\\repos\\StoreCollector.Maui\\StoreCollector.Maui\\AppShell.xaml",
+              "RelativeToolTip": "StoreCollector.Maui\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-10T04:30:57.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "VentaService.cs",
               "DocumentMoniker": "C:\\Users\\Brian\\source\\repos\\StoreCollector.Maui\\StoreCollector.Maui\\Services\\VentaService.cs",
               "RelativeDocumentMoniker": "StoreCollector.Maui\\Services\\VentaService.cs",
@@ -286,7 +299,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "ProductoDTO.cs",
               "DocumentMoniker": "C:\\Users\\Brian\\source\\repos\\StoreCollector.Maui\\StoreCollector.Maui\\Models\\ProductoDTO.cs",
               "RelativeDocumentMoniker": "StoreCollector.Maui\\Models\\ProductoDTO.cs",
@@ -295,18 +308,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-11T05:05:27.098Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Producto.cs",
-              "DocumentMoniker": "C:\\Users\\Brian\\source\\repos\\StoreCollector.Maui\\StoreCollector.Maui\\Models\\Producto.cs",
-              "RelativeDocumentMoniker": "StoreCollector.Maui\\Models\\Producto.cs",
-              "ToolTip": "C:\\Users\\Brian\\source\\repos\\StoreCollector.Maui\\StoreCollector.Maui\\Models\\Producto.cs",
-              "RelativeToolTip": "StoreCollector.Maui\\Models\\Producto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-11T03:48:07.938Z"
             },
             {
               "$type": "Document",
@@ -319,18 +320,6 @@
               "ViewState": "AgIAAAsAAAAAAAAAAADwvyEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-12-10T06:32:28.956Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "AndroidManifest.xml",
-              "DocumentMoniker": "C:\\Users\\Brian\\source\\repos\\StoreCollector.Maui\\StoreCollector.Maui\\Platforms\\Android\\AndroidManifest.xml",
-              "RelativeDocumentMoniker": "StoreCollector.Maui\\Platforms\\Android\\AndroidManifest.xml",
-              "ToolTip": "C:\\Users\\Brian\\source\\repos\\StoreCollector.Maui\\StoreCollector.Maui\\Platforms\\Android\\AndroidManifest.xml",
-              "RelativeToolTip": "StoreCollector.Maui\\Platforms\\Android\\AndroidManifest.xml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2025-12-11T06:00:13.719Z"
             },
             {
               "$type": "Document",

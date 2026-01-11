@@ -11,9 +11,6 @@ namespace StoreCollector.Maui.Services
             _api = api;
         }
 
-        public ProductoService()
-        {
-        }
 
         public Task<List<Producto>> GetProductos()
         {
